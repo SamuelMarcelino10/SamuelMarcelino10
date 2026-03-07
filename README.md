@@ -4,7 +4,7 @@
 
 ---
 
-Me chamo Samuel de Souza Marcelino, sou de Rio do Sul – SC e curso Engenharia de Software. Atualmente, estou me dedicando aos estudos para me tornar um desenvolvedor de software, com interesse e foco também na área de DevOps, buscando aprimorar continuamente minhas habilidades técnicas e profissionais. Você pode visitar o meu [Instagram](https://www.instagram.com/samumarcelino_/), e também o meu [LinkedIn](https://www.linkedin.com/in/samueldesouzamarcelino/).
+My name is Samuel de Souza Marcelino, I’m from Rio do Sul – SC, and I’m a Software Engineering student. Currently, I am dedicated to my studies to become a Fullstack software developer, continuously seeking to improve my technical and professional skills. You can visit my [Instagram](https://www.instagram.com/samumarcelino_/), and also my [LinkedIn](https://www.linkedin.com/in/samueldesouzamarcelino/).
 
 ---
 
