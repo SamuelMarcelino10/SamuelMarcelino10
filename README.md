@@ -8,7 +8,7 @@ My name is Samuel de Souza Marcelino, I’m from Rio do Sul – SC, and I’m a 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Tech Stack
 
 <img 
     align="left" 
