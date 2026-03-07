@@ -1,6 +1,6 @@
 # Samuel
 
-**`Estudante de Engenharia de Software`**
+**`Software Engineering Student`**
 
 ---
 
