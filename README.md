@@ -31,7 +31,10 @@ I'm **Samuel de Souza Marcelino**, from Rio do Sul – SC, Brazil. I'm a Softwar
 
 ### Databases, Cloud & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
@@ -40,11 +43,6 @@ I'm **Samuel de Souza Marcelino**, from Rio do Sul – SC, Brazil. I'm a Softwar
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SamuelMarcelino10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelMarcelino10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samuel's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMarcelino10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
