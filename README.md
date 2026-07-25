@@ -1,26 +1,17 @@
 <h1 align="center">Hi there, I'm Samuel 👋</h1>
 
-<h3 align="center">Software Engineering Student · Aspiring Fullstack Developer</h3>
+<h3 align="center">Software Engineering Student · Fullstack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samueldesouzamarcelino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/samumarcelino_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SamuelMarcelino10&style=for-the-badge&color=blue" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/samueldesouzamarcelino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/samumarcelino_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm **Samuel de Souza Marcelino**, from Rio do Sul – SC, Brazil.
-- 💻 Software Engineering student on the path to becoming a **Fullstack developer**.
-- 🌱 Constantly improving my technical and professional skills.
-- 🚀 Passionate about building clean, scalable and well-crafted software.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/samueldesouzamarcelino/) or [Instagram](https://www.instagram.com/samumarcelino_/).
+I'm **Samuel de Souza Marcelino**, from Rio do Sul – SC, Brazil. I'm a Software Engineering student and I work as a **Fullstack developer**, constantly improving my technical and professional skills. I'm passionate about building clean, scalable and well-crafted software. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/samueldesouzamarcelino/) or [Instagram](https://www.instagram.com/samumarcelino_/).
 
 ---
 
@@ -48,12 +39,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelMarcelino10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samuel's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMarcelino10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=SamuelMarcelino10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SamuelMarcelino10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelMarcelino10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samuel's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelMarcelino10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 ---
