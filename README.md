@@ -43,7 +43,7 @@ I'm **Samuel de Souza Marcelino**, from Rio do Sul – SC, Brazil. I'm a Softwar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SamuelMarcelino10&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=SamuelMarcelino10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ I'm **Samuel de Souza Marcelino**, from Rio do Sul – SC, Brazil. I'm a Softwar
 ### � &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelMarcelino10&theme=tokyonight&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelMarcelino10&theme=github-dark&hide_border=true&area=true" />
 </div>
 
 ---
