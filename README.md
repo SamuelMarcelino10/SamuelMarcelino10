@@ -48,4 +48,12 @@ I'm **Samuel de Souza Marcelino**, from Rio do Sul – SC, Brazil. I'm a Softwar
 
 ---
 
+### � &nbsp;Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelMarcelino10&theme=tokyonight&hide_border=true&area=true" />
+</div>
+
+---
+
 <p align="center"><i>Thanks for stopping by! Feel free to connect. 🚀</i></p>
